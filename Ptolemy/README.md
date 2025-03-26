@@ -3,7 +3,6 @@
 
 ## Overview
 
-
 **Interactive Geographical Plotting PWA** is a Progressive Web App built with **Blazor** that enables users to create, customize, and share interactive plots of geographical data. It supports real-time rendering, data transformations, and multiple mapping layers to provide rich insights into spatial data.
 
 ## Features
